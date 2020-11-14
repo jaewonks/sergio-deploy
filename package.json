@@ -1,0 +1,21 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "Web de Federico Garcia Lorca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sergio <sergio7navarro@uoc.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "autoprefixer": "^10.0.2",
+    "git": "^0.1.5",
+    "postcss": "^8.1.7",
+    "postcss-modules": "^3.2.2",
+    "sass": "^1.29.0"
+  }
+}
